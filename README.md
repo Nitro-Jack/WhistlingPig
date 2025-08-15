@@ -10,12 +10,12 @@ There a 2 files you need for this to work, one being any simple .desktop file. T
 * NOTE: This doesnt give that file exectuable permissions, you'll still have to set it up with permissions to excute
 
 .desktop files are pretty easy to understand
-Name= (The name of the progam you want to run, this will give the illusion of what the user thinks thier going to run.)
-Comment= Something Something 
-Exec= (path to your exe or script you want to run)
-Icon= (path to your icon image)
-Type= (Application)
-Terminal= (true or false)
-StartupNotify= (true or false)
+* Name= (The name of the progam you want to run, this will give the illusion of what the user thinks thier going to run.)
+* Comment= Something Something 
+* Exec= (path to your exe or script you want to run)
+* Icon= (path to your icon image)
+* Type= (Application) there are more, just have to commit so i can runoff and do something. 
+* Terminal= (true or false)
+* StartupNotify= (true or false)
 
 wine "/home/johndoe/Desktop/Windows Applications/Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Portable/devcpp.exe"
