@@ -2,8 +2,8 @@
 [Desktop Entry]
 Name= Piggie Demo
 Comment= Whistling Pig Demo 
-Exec= /home/j3lly/Desktop/pig.sh
-Icon= /home/j3lly/Downloads/whistle_pig_Logo-1484690413.png
+Exec= /home/johndoe/Desktop/pig.sh
+Icon= /home/johndoe/Downloads/whistle_pig_Logo-1484690413.png
 Type=Application
 Terminal=false
 StartupNotify=true
