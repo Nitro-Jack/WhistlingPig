@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name= Firefox
+Comment= Whistling Pig Demo 
+Exec= /home/student/bored.sh
+Icon= /home/student/Downloads/Firefox_logo.png
+Type=Application
+Terminal=true
+StartupNotify=true
