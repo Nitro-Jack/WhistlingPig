@@ -2,6 +2,10 @@
 # WhistlingPig
 Funny backdoor for beginners to learn about spotting malware on Linux Systems. Works across all linux environments that support .desktop files. 
 
+## Additions Needed:
+Delete session information, along with log in mechanisms (might just move to reboot the pc in that event)
+
+
 
 ## How it works TLDR:
 Mimics a desktop icon for any program you set it to, which then calls upon a premade script that opens said progam, and anything else you want to run (key loggers, pig screaming etc. 😅😅)
