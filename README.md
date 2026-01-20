@@ -3,7 +3,7 @@
 Funny backdoor for beginners to learn about spotting malware on Linux Systems. Works across all linux environments that support .desktop files. 
 
 ### Additions Needed:
-Delete session information, along with log in mechanisms (might just move to reboot the pc in that event)
+- Delete session information, along with log in mechanisms (might just move to reboot the pc in that event)
 
 ## Edge cases I found:
 * Ubuntu requires you to give it executbable permision, which can be done via right click or just your standard chmod command
