@@ -6,7 +6,7 @@ Funny backdoor for beginners to learn about spotting malware on Linux Systems. W
 Delete session information, along with log in mechanisms (might just move to reboot the pc in that event)
 
 ## Edge cases I found:
-* Ubntu requires you to give it executbable permision, which can be done via right click or just your standard chmod command
+* Ubuntu requires you to give it executbable permision, which can be done via right click or just your standard chmod command
 
 ## How it works TLDR:
 Mimics a desktop icon for any program you set it to, which then calls upon a premade script that opens said progam, and anything else you want to run (key loggers, pig screaming etc. 😅😅)
